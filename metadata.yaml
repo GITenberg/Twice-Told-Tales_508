@@ -1,0 +1,35 @@
+_repo: Twice-Told-Tales_508
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '1996-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '508'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Historical fiction, American'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: 'The gray champion -- The wedding knell -- The minister''s black
+  veil -- The Maypole of Merry Mount -- The gentle boy -- Mr. Higginbotham''s catastrophe
+  -- Wakefield -- The great carbuncle -- David Swan -- The hollow of the three hills
+  -- Dr. Heidegger''s experiment -- Legends of the Province House: Howe''s masquerade.
+  Edward Randolph''s portrait. Lady Eleanore''s mantle. Old Esther Dudley -- The ambitious
+  guest -- Peter Goldthwaite''s treasure -- The Shaker bridal -- Endicott and the
+  Red Cross.'
+title: Twice-Told Tales
+url: http://www.gutenberg.org/ebooks/508
