@@ -1,5 +1,8 @@
 _repo: Twice-Told-Tales_508
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: cover.png
 creator:
   author:
     agent_name: Hawthorne, Nathaniel
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/508#Twice-Told-Tales
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '1996-04-01'
 gutenberg_type: Text
